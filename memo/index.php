@@ -1,9 +1,16 @@
+<?php
+include_once "../common/header.php";
+echo getHeader("メモ投稿");
+
+require '../common/auth.php';
+
+if (!isLogin()) {
+    header('Location: ../login/');
+    exit;
+}
+?>  
 <!DOCTYPE html>
 <html lang="ja">    
-    <?php
-        include_once "../common/header.php";
-        echo getHeader("メモ投稿");
-    ?>  
     <body class="bg-white">
         <div class="h-100">
             <div class="row h-100 m-0 p-0">

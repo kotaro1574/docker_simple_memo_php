@@ -1,0 +1,17 @@
+[28-Dec-2020 18:52:15 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[28-Dec-2020 18:54:54 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[29-Dec-2020 09:39:05 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function stringMixSizeCheck() in /var/www/html/login/action/login.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/action/login.php on line 20
+[29-Dec-2020 09:40:09 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function stringMimSizeCheck() in /var/www/html/login/action/login.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/action/login.php on line 20
+[29-Dec-2020 09:40:27 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/login/action/login.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/action/login.php on line 30
+[29-Dec-2020 10:56:55 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 50
+[29-Dec-2020 12:33:47 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 50
+[29-Dec-2020 12:39:08 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 50
