@@ -246,3 +246,80 @@ Version: '5.7.32'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Comm
 2020-12-28T17:00:34.857251Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17706ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
 2020-12-29T00:57:30.131638Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17648ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
 2020-12-29T01:38:12.838534Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17941ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T04:59:39.081735Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17929ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T05:00:17.192669Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17659ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T05:01:23.166838Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17636ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T06:10:15.987246Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17425ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T06:10:44.249520Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 18224ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T07:59:01.609898Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17755ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T08:03:24.108735Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 18205ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T10:08:53.853544Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17997ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T10:29:12.766333Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17757ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T12:36:00.734838Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17712ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T14:36:50.372939Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 52004ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T14:39:35.280946Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 18225ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T16:11:50.878353Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 18215ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T18:12:05.525914Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17409ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T19:12:40.189909Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 40043ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-29T21:13:00.538616Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 22542ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-30T01:07:44.442069Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 23380ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-30T01:11:07.942469Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17956ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-30T07:02:32.012933Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17407ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-30T07:03:42.044915Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17862ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-30T07:45:51.154086Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17706ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-30T08:14:58.966784Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2020-12-30T08:14:58.969205Z 0 [Note] Shutting down slave threads
+2020-12-30T08:14:58.971195Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2020-12-30T08:14:58.973147Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-12-30T08:14:58.975937Z 0 [Note] Binlog end
+2020-12-30T08:14:59.014454Z 0 [Note] Shutting down plugin 'ngram'
+2020-12-30T08:14:59.019316Z 0 [Note] Shutting down plugin 'partition'
+2020-12-30T08:14:59.023647Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2020-12-30T08:14:59.025012Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2020-12-30T08:14:59.026103Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-12-30T08:14:59.027249Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-12-30T08:14:59.029324Z 0 [Note] Shutting down plugin 'MyISAM'
+2020-12-30T08:14:59.032989Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2020-12-30T08:14:59.036271Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-12-30T08:14:59.039377Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-12-30T08:14:59.040486Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-12-30T08:14:59.043153Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-12-30T08:14:59.045864Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-12-30T08:14:59.048255Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-12-30T08:14:59.050140Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-12-30T08:14:59.052136Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-12-30T08:14:59.054833Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-12-30T08:14:59.056761Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-12-30T08:14:59.057957Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-12-30T08:14:59.058830Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-12-30T08:14:59.059860Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-12-30T08:14:59.062128Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-12-30T08:14:59.063013Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-12-30T08:14:59.063868Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-12-30T08:14:59.065484Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2020-12-30T08:14:59.067718Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-12-30T08:14:59.068847Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-12-30T08:14:59.070032Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-12-30T08:14:59.071594Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-12-30T08:14:59.072740Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-12-30T08:14:59.073637Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-12-30T08:14:59.074739Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-12-30T08:14:59.076491Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-12-30T08:14:59.077687Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2020-12-30T08:14:59.079941Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-12-30T08:14:59.080932Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-12-30T08:14:59.082025Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2020-12-30T08:14:59.082970Z 0 [Note] Shutting down plugin 'InnoDB'
+2020-12-30T08:14:59.084934Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-12-30T08:14:59.086636Z 0 [Note] InnoDB: Starting shutdown...
+2020-12-30T08:14:59.194155Z 0 [Note] InnoDB: Dumping buffer pool(s) to /var/lib/mysql/ib_buffer_pool
+2020-12-30T08:14:59.209967Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 201230 17:14:59
+2020-12-30T08:15:00.777383Z 0 [Note] InnoDB: Shutdown completed; log sequence number 12671596
+2020-12-30T08:15:00.782949Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-12-30T08:15:00.784210Z 0 [Note] Shutting down plugin 'MEMORY'
+2020-12-30T08:15:00.785231Z 0 [Note] Shutting down plugin 'CSV'
+2020-12-30T08:15:00.787286Z 0 [Note] Shutting down plugin 'sha256_password'
+2020-12-30T08:15:00.788114Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2020-12-30T08:15:00.789151Z 0 [Note] Shutting down plugin 'binlog'
+2020-12-30T08:15:00.851920Z 0 [Note] mysqld: Shutdown complete
+
